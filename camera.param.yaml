@@ -1,0 +1,41 @@
+# List of cameras (8 cameras)
+- camera:
+   name: "leopard120_1"
+   src: 0
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_2"
+   src: 1
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_3"
+   src: 2
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_4"
+   src: 3
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_5"
+   src: 4
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_6"
+   src: 5
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_7"
+   src: 6
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
+- camera:
+   name: "leopard120_8"
+   src: 7
+   frame_size: [ 1920, 1080 ]
+   msg_frame_size: [ 640, 480 ]
